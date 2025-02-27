@@ -26,6 +26,7 @@ namespace ObratnChis
 
             //broy na четните числа
             int countEven = CountEvenNumbers(numbers);
+            //njnbb
             Console.WriteLine($"Count eventNums= {countEven}");
         }
 
