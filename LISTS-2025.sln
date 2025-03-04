@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SredniElem1_2ili3", "Sredni
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObratnChis", "ObratnChis\ObratnChis.csproj", "{435CDC7F-84A9-40AE-9959-09AE948F6DCA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Comands", "Comands\Comands.csproj", "{44CE8020-1421-4452-A0C0-79D963471604}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertRemoveInArray", "InsertRemoveInArray\InsertRemoveInArray.csproj", "{6450DBB3-A02F-41A2-990B-4C6FD09854D4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{435CDC7F-84A9-40AE-9959-09AE948F6DCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{435CDC7F-84A9-40AE-9959-09AE948F6DCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{435CDC7F-84A9-40AE-9959-09AE948F6DCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44CE8020-1421-4452-A0C0-79D963471604}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44CE8020-1421-4452-A0C0-79D963471604}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44CE8020-1421-4452-A0C0-79D963471604}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44CE8020-1421-4452-A0C0-79D963471604}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6450DBB3-A02F-41A2-990B-4C6FD09854D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6450DBB3-A02F-41A2-990B-4C6FD09854D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6450DBB3-A02F-41A2-990B-4C6FD09854D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6450DBB3-A02F-41A2-990B-4C6FD09854D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
